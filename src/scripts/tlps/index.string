@@ -1,0 +1,98 @@
+<div class="m-index" id="m-index">
+<!--   <div class="cute"> 
+  <header>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide"><img src="/images/img5.jpg"/></div>
+            <div class="swiper-slide"><img src="/images/img2.jpg"/></div>
+            <div class="swiper-slide"><img src="/images/img3.jpg"/></div>
+            <div class="swiper-slide"><img src="/images/img4.jpg"/></div>
+            <div class="swiper-slide"><img src="/images/img1.jpg"/></div>
+        </div>
+        <div class="swiper-pagination"></div>
+    </div>
+  </header>
+  <nav>
+     <div class="m-logo">
+        <i><img src="/images/icon.png" alt=""></i>
+        <b>女装商城</b>
+     </div>
+     <ul class="m-nav">
+       <li>
+         <i class="yo-ico">&#xe696;</i>
+         <b>全部分类</b>
+       </li>
+       <li>
+         <i class="yo-ico">&#xe606;</i>
+         <b>热门推荐</b>
+       </li>
+       <li>
+         <i class="yo-ico">&#xe6ac;</i>
+         <b>搜索</b>
+       </li>
+       <li>
+         <i class="yo-ico">&#xe611;</i>
+         <b>品牌介绍</b>
+       </li>
+     </ul>
+  </nav>
+  <div class="m-notice">   
+    <b class="yo-ico">&#xe6be;</b>
+    <i>公告</i>
+    <span>欢迎关注女装商城，定期更新最新潮流服饰！</span>
+  </div>
+  <ul class="m-show">
+     <li><img src="/images/m-show_03.png"></li>
+     <li><img src="/images/m-show_03.png"></li>
+     <li><img src="/images/m-show_03.png"></li>
+  </ul>
+ <section>
+   <div class="f-sort">
+     <div class="sort">
+         <span class="m-cName">双面呢大衣</span>
+         <div class="m-more">
+           <b>更多</b>
+           <i class="yo-ico">&#xe642;</i>
+         </div>
+     </div>
+     商品列表
+     <ul class="s-lists">
+        <li v-for="item in list">
+          <a><img :src="item.imgSrc" alt=""></a>
+           <p>{{item.title}}</p>
+          <div class="s-message">
+            <span class="s-price">
+              <i>￥{{item.nowp}}</i>
+              <b>￥{{item.oldP}}</b>
+            </span>
+            <span class="s-car yo-ico">&#xe607;</span>
+          </div> 
+        </li>
+     </ul>
+   </div>    
+       <div class="f-sort">
+     <div class="sort">
+         <span class="m-cName">双面呢大衣</span>
+         <div class="m-more">
+           <b>更多</b>
+           <i class="yo-ico">&#xe642;</i>
+         </div>
+     </div>
+     商品列表
+     <ul class="s-lists">
+        <li v-for="item in list">
+          <a><img :src="item.imgSrc" alt=""></a>
+           <p>{{item.title}}</p>
+          <div class="s-message">
+            <span class="s-price">
+              <i>￥{{item.nowp}}</i>
+              <b>￥{{item.oldP}}</b>
+            </span>
+            <span class="s-car yo-ico">&#xe607;</span>
+          </div> 
+        </li>
+     </ul>                         
+</section> 
+</div> -->
+  <footer></footer>
+</div>

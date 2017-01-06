@@ -1,0 +1,66 @@
+[
+	{
+		"id":1,
+		"imgSrc":"/images/list1.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	},
+	{
+		"id":2,
+		"imgSrc":"/images/list2.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	},
+	{
+		"id":3,
+		"imgSrc":"/images/list3.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	},
+	{
+		"id":4,
+		"imgSrc":"/images/list4.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	},
+		{
+		"id":5,
+		"imgSrc":"/images/list5.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	},
+	{
+		"id":6,
+		"imgSrc":"/images/list6.png",
+		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
+		"oldP":1580,
+		"nowp":799,
+		"count":5,
+		"sellNum":5,
+		"popularN":584
+	}
+
+]
+
+
+
