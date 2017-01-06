@@ -1,0 +1,35 @@
+<div class="register">
+	<header>
+		<i class="yo-ico">&#xe67c;</i>
+		<span>注册</span>
+		<i></i>
+	</header>
+	<section>
+		<form>
+			<div>
+				<i>手机</i>
+				<input type="text"/>
+			</div>
+			<div>
+				<i>密码</i>
+				<input type="passwords"/>
+			</div>
+			<div>
+				<i>确认密码</i>
+				<input type="passwords"/>
+			</div>
+			<div>
+				<i></i>
+				<strong>
+					我已阅读并同意
+					<span>
+						《注册协议》
+					</span>
+				</strong>
+			</div>
+			<div>
+				<input type="submit" value="注册"/>
+			</div>
+		<form>
+	</section>
+</div>

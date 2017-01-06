@@ -1,66 +1,38 @@
 [
-	{
-		"id":1,
-		"imgSrc":"/images/list1.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	},
-	{
-		"id":2,
-		"imgSrc":"/images/list2.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	},
-	{
-		"id":3,
-		"imgSrc":"/images/list3.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	},
-	{
-		"id":4,
-		"imgSrc":"/images/list4.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	},
-		{
-		"id":5,
-		"imgSrc":"/images/list5.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	},
-	{
-		"id":6,
-		"imgSrc":"/images/list6.png",
-		"title":"时尚格子大衣 减轻年龄款，货号839，清仓",
-		"oldP":1580,
-		"nowp":799,
-		"count":5,
-		"sellNum":5,
-		"popularN":584
-	}
-
+  {
+    "img":"/images/slide2_01.jpg",
+    "details":"2016春季新品&ensp;浪漫水仙印花连衣裙",
+    "nowPrice":"350.00",
+    "last":"680:00"
+  },
+  {
+    "img":"/images/slide2_02.jpg",
+    "details":"韩迪娜男士内裤空气平角裤青年木代尔U凸性感这是省略号",
+    "nowPrice":"180.00",
+    "last":"188.00"
+  },
+  {
+    "img":"/images/slide2_03.jpg",
+    "details":"法拉奇披肩按摩大师&ensp;一机多用全身轻松&ensp;新品热卖中",
+    "nowPrice":"188.00",
+    "last":"368.00"
+  },
+  {
+    "img":"/images/slide2_04.jpg",
+    "details":"爆款清仓中长款&ensp;民族风刺绣貉子毛羽绒服，卡其中空淡妆色你信不信",
+    "nowPrice":"180.00",
+    "last":"118"
+  },
+  {
+    "img":"/images/slide2_05.jpg",
+    "details":"爆款清仓中长款&ensp;民族风刺绣貉子毛羽绒服，卡其中空淡妆色你信不信",
+    "nowPrice":"180.00",
+    "last":"118"
+  },
+  {
+    "img":"/images/slide2_06.jpg",
+    "details":"爆款清仓中长款&ensp;民族风刺绣貉子毛羽绒服，卡其中空淡妆色你信不信",
+    "nowPrice":"180.00",
+    "last":"118"
+  }
 ]
-
-
-

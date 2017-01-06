@@ -1,0 +1,75 @@
+@charset "UTF-8";
+@import "common.scss";
+
+.login{
+    width: 100%;
+    height: 100%;
+     @include flexbox();
+     @include flex-direction(column);
+     header{
+         @include flexbox();
+         @include justify-content(center);
+         @include align-items(center);
+         height: 35%;
+         div{
+             width: 52%;
+             overflow: hidden;
+             img{
+                 width: 100%;
+             }
+         }
+     }
+     .ipt{
+         height: 31%;
+         form{
+             width: 100%;
+             height: 100%;
+              div{ 
+                  margin: 0 auto;
+                  @include flexbox();
+                   width: 76%;
+                   height: 33%;
+                    i{
+                         @include flexbox(); 
+                          @include align-items(center);
+                          font-size: 0.22rem;
+                          color: #999;
+                    }
+                    input{
+                        font-size: 0.15rem;
+                        color: #7c7c7c;
+                        background: #f1f1f1;
+                        border: none;
+                        height: 100%;
+                    }
+                    &:nth-child(1){
+                        @include border(0 0 1px 0,#999,solid);
+                    }
+                    &:nth-child(3){
+                        input{
+                            width: 100%; 
+                            background: #d93d46;
+                            color: #fff;
+                            }
+                    }
+                }
+         }   
+     }
+    >div{ height: 27%;}
+    
+    footer{
+        background:#f1f1f1;
+        height: 11%;
+        @include flexbox(); 
+        div{
+            @include flexbox();
+            @include justify-content(center);
+            @include align-items(center);
+            width: 50%;
+            height: 100%;
+            font-size: 0.14rem;
+            color: #a0a0a0;
+        }
+    }
+    >*{width: 100%; background: #f1f1f1; font-size: 0.12rem;}
+}

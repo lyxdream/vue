@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+section{
+    @include flexbox();
+    @include flex-direction(column);
+    header{
+       background: #fff;
+       @include flexbox();
+       @include justify-content(center);
+       .search{
+           width: 80%;
+           background:url(/images/icon_search.png) no-repeat 96% center #d8d8d8;
+           background-size: 0.22rem 0.22rem;
+           height: 0.35rem;
+           @include border(0px,#d8d8d8,solid,0.06rem);
+           line-height: 0.35rem; text-indent: 4%;
+           margin: 0.05rem 0 0.05rem 0;
+       }
+    }
+    
+    nav{
+        ul{
+            @include flexbox();
+            @include flex-direction();
+            @include border(0 0 1px 0,#dbdbdb,solid);
+            li{
+                @include flexbox();
+                @include justify-content(center);
+                @include border(0 1px 0 0,#dbdbdb,solid);
+                &:last-child{
+                    @include border(0 0 0 0,#dbdbdb,solid);
+                   }
+                width: 25%;
+                span,i{
+                      display: inline-block;
+                      height: 0.47rem;
+                      line-height: 0.47rem;
+                }
+                i{line-height: 0.43rem;}
+              
+            }
+        }
+    }
+    section{
+            @include flex();
+            background: #fff;
+         #scroll-container{
+             height: 100%;
+         }
+        .head {
+          text-align: center;
+          height: .35rem;
+          line-height: .35rem;
+        }
+        .head img {
+          width: .14rem;
+          height: .14rem;
+          display: inline-block;
+          transform: rotate(180deg);
+          -webkit-transform: rotate(180deg);
+          transition: transform 150ms;
+          -webkit-transition: transform 150ms;
+        }
+        .head.hide {
+          display: none;
+        }
+        .up {
+          transform: rotate(360deg) !important;
+          -webkit-transform: rotate(360deg) !important;
+        }
+        .foot {
+          text-align: center;
+          height: .35rem;
+          line-height: .35rem;
+        }
+        .foot img {
+          width: .14rem;
+          height: .14rem;
+          display: inline-block;
+          /*transform: rotate(0deg);*/
+          /*-webkit-transform: rotate(0deg);*/
+          transition: transform 150ms;
+          -webkit-transition: transform 150ms;
+        }
+        .foot.hide {
+          display: none;
+        }
+        .down {
+          transform: rotate(180deg) !important;
+          -webkit-transform: rotate(180deg) !important;
+        }
+            ul{
+                @include flexbox();
+                @include flex-wrap(wrap);
+                li{
+                    @include flexbox();
+                    @include flex-direction(column);
+                    @include justify-content(space-around);
+                    @include align-items(center);
+                    width: 50%;
+                    height: 2.54rem;
+                    padding: 0.08rem 0;
+                    @include border(0 0 1px 0,#d0d0d0,solid);
+                    div{
+                        width: 92%;
+                        overflow: hidden;
+                        img{
+                            width: 100%;
+                        }
+                        strong{
+                            color: #ff2e2e;
+                            font-size: 0.1rem;
+                            span{
+                                font-size:0.14rem;
+                            }
+                        }
+                        s{
+                            text-decoration: line-through;
+                            font-size: 0.12rem;
+                            color: #898989;
+                        }
+                    }
+                    p{
+                        width: 92%;
+                        @include ellipsis(null,2); 
+                    }
+                    &:nth-child(odd){
+                       @include border(0 1px 1px 0,#d0d0d0,solid)
+                    }
+                }
+            }
+            
+    }
+    
+    >*{width: 100%; font-size: 0.14rem;}
+}

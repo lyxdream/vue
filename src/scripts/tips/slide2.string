@@ -1,0 +1,118 @@
+  <section> 	
+   	<header>
+    		<div class="search">
+    			请输入关键字
+    		</div>
+    	</header>
+    	<nav>
+    		<ul>
+    			<li>
+    				<span>
+    					销量&ensp;
+    					<i class="yo-ico">
+    						&#xe6af;
+    					</i>
+    				</span>
+    			</li>
+    			<li>
+    				<span>
+    				 	人气&ensp;
+				 		<i class="yo-ico">
+				 			&#xe6af;
+				 		</i>
+    				</span>	
+    			</li>
+    			<li>
+    				<span>
+    					价格&ensp;
+    					<i class="yo-ico">
+    						&#xe6af;
+    					</i>
+    				</span>
+    			</li>
+    			<li>
+    				<span>
+	    				分类&ensp;	
+	    				<i class="yo-ico">
+	    					&#xe617;
+	    				</i>
+    				</span>
+    			</li>
+    		</ul>
+    	</nav>
+    	<section>
+    		<ul>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    			<li>
+    				<div>
+    					<img src="/images/slide2_01.jpg">
+    				</div>
+					<p>2016春季新品&ensp;浪漫水仙印花连衣裙</p>
+					<div>
+						<strong>¥&ensp;
+							<span>118.00&ensp;</span>
+						</strong>
+						<s>¥118.00</s>
+					</div>
+    			</li>
+    		</ul>
+    	</section>
